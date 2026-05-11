@@ -1,4 +1,4 @@
- Hi there 👋
+ /# mi nombre is ignacio, soy aficionado de las aguilas del america 
 
 <!--
 **up250348rsi/up250348rsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
