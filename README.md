@@ -5,6 +5,7 @@
 $$int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}$$
 
 https://www.youtube.com/watch?v=8KeAf4rGCuk&list=RD8KeAf4rGCuk&start_radio=1
+https://vandal.elespanol.com/sagas/call-of-duty-modern-warfare
 
 <!--
 **up250348rsi/up250348rsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
